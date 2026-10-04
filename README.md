@@ -116,7 +116,7 @@ Provides HTTP GET request functionality using `HttpURLConnection`.
 
 |  |  |  |
 | :---: | :---: | :---: |
-| <img src="screenshot/7.1.png" width="250"> | <img src="screenshot/7.2.png" width="250"> |
+| <img src="screenshots/7.1.png" width="250"> | <img src="screenshots/7.2.png" width="250"> |
 
 ---
 
