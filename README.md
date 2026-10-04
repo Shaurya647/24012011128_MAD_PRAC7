@@ -114,11 +114,11 @@ Provides HTTP GET request functionality using `HttpURLConnection`.
 
 #Screenshots
 
-|  |  |  |
-| :---: | :---: | :---: |
+|  |  |
+| :---: | :---: |
 | <img src="screenshots/7.1.png" width="250"> | <img src="screenshots/7.2.png" width="250"> |
 
----
+--
 
 ## How to Run
 
