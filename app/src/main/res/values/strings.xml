@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">24012011128_MAD_PRAC7</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="phone_number">+91 9876543210</string>
+    <string name="email_address">shaurya13@gnu.ac.in</string>
+    <string name="home_address">Ganpat University, Mehsana, Gujarat</string>
+    <string name="delete">Delete</string>
+</resources>
